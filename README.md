@@ -191,7 +191,7 @@ Project Timeline and Milestones
 
 ---
 
-Why Choose Me?
+**Why Choose Me?**
 
 I bring over five years of experience in project coordination and business analytics, with a strong background in international market expansion for health brands. I’m skilled in both strategic planning and data analytics, enabling me to create detailed, actionable plans with measurable results. I believe my expertise will help position VitalBoost as a trusted, recognizable brand across Europe.
 
@@ -201,7 +201,7 @@ I bring over five years of experience in project coordination and business analy
 Looking forward to the opportunity to work with you on this exciting project.
 
 Best Regards,
-Emmanuel Osemudiamen
+**Emmanuel Osemudiamen**
 Business Development Specialist
 
 
